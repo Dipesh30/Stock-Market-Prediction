@@ -36,7 +36,6 @@ Place the dataset in the `data/` directory, ensuring it's in a suitable format (
 - NumPy
 - Pandas
 - Matplotlib
-- [Any other libraries or tools you used]
 
 ## Model Architecture
 
